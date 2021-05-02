@@ -35,6 +35,6 @@ Link for documentation: https://www.notion.so/Chart-Plot-109c39215f2b45fc80cfff8
 To iniciate the project on your machine your need: 
 - Do a clone of repository
 - Use the command "npm install", to install the dependencies
-- Use the command npm start, to initiate the application
+- Use the command "npm start", to initiate the application
 - Open the browser on localhost:3000
 
