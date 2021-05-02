@@ -14,7 +14,7 @@ ___
 ## :information_source: About
 
 A web application that plots a line chart based on some manually input data. </br>
-Link for documentation: <a href="http://example.com" target="_blank">https://www.notion.so/Chart-Plot-109c39215f2b45fc80cfff8b4021c56f</a>
+Link for documentation: https://www.notion.so/Chart-Plot-109c39215f2b45fc80cfff8b4021c56f
 
 ## :seedling: Requirements
 
