@@ -37,4 +37,5 @@ To iniciate the project on your machine your need:
 - Use the command "npm install", to install the dependencies
 - Use the command "npm start", to initiate the application
 - Open the browser on localhost:3000
+- To run the test, use the command "npx cypress run", to run on the terminal, or "npx cypress open", to open the cypress application, than click on "Run 1 integration spec"
 
