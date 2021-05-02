@@ -14,6 +14,7 @@ ___
 ## :information_source: About
 
 A web application that plots a line chart based on some manually input data. </br>
+Deployment: https://chart-plot-app.netlify.app/ </br>
 Link for documentation: https://www.notion.so/Chart-Plot-109c39215f2b45fc80cfff8b4021c56f
 
 ## :seedling: Requirements
