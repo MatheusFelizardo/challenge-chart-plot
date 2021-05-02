@@ -9,7 +9,7 @@ ___
   <a href="#rocket-getting-start">Getting Started</a>&nbsp;|&nbsp;
 </h3>
 
-<img src="https://i.ibb.co/NTBcqgv/Screenshot-50.png" width="1200">
+<img src="https://i.ibb.co/dL049g8/chart-plot.png" width="1200">
 
 ## :information_source: About
 
